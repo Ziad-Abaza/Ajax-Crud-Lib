@@ -1,5 +1,3 @@
-Here's the enhanced README.md file with better explanations and more examples:
-
 # AJAX CRUD Library
 
 This library provides an easy way to perform CRUD (Create, Read, Update, Delete) operations using AJAX in a single-page application. It includes PHP scripts to handle database interactions and JavaScript functions to make AJAX requests.
