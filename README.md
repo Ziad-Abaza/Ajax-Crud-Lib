@@ -1,6 +1,5 @@
 Here's the enhanced README.md file with better explanations and more examples:
 
-```markdown
 # AJAX CRUD Library
 
 This library provides an easy way to perform CRUD (Create, Read, Update, Delete) operations using AJAX in a single-page application. It includes PHP scripts to handle database interactions and JavaScript functions to make AJAX requests.
@@ -21,9 +20,7 @@ This library provides an easy way to perform CRUD (Create, Read, Update, Delete)
 ## Installation
 
 1. **Clone the repository or download the files**:
-   ```bash
    git clone https://github.com/your-username/ajax-crud-library.git
-   ```
 
 2. **Configure the database connection**:
    Update the `config.php` file with your database credentials:
@@ -443,4 +440,3 @@ For updating data, you can modify the `updateData` function in `ajaxFunctions.js
 These additional examples demonstrate fetching a specific user by ID and updating a user's information using the AJAX CRUD library.
 
 This completes the comprehensive documentation for the AJAX CRUD library, including installation instructions, file structure, usage examples, and additional scenarios.
-```
